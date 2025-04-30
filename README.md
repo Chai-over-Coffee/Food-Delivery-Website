@@ -1,5 +1,5 @@
 # Food-Delivery-Website
-Created a Food Delivery Website named "Food From Ayush" using React.js, Node.js, React Native and HTML,CSS,JS
+Created a Food Delivery Website named "Food From Ayush" using React.js, Node.js, Express, MongoDB React Native and HTML,CSS,JS
 1.Home page(The search icon don't work, will fix it soon!)
 ![image](https://github.com/user-attachments/assets/8101e03c-6dc7-4121-bd8d-2036984fb379)
 2.Explore Menu
